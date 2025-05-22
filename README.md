@@ -46,7 +46,6 @@ Enter a word to search (or type 'exit' to quit): bat
 Enter a word to search (or type 'exit' to quit): exit
 👋 Exiting dictionary.
 
-
 🧠 Time & Space Complexity
 | Operation     | Time Complexity | Space Complexity |
 |---------------|------------------|------------------|
