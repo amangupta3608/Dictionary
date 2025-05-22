@@ -23,7 +23,7 @@ This assignment involves two core tasks:
   - TrieNode.java (Defines each Trie node)
   - DictionaryTrie.java (Trie logic: insert, search)
   - DictionaryApp.java (Main runner with Command-Line Interface)
-  - list.txt (Word list used as dictionary)
+- list.txt (Word list used as dictionary)
   
 📥 Input Format
 - File: `list.txt`
