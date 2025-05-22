@@ -2,7 +2,6 @@ import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
-import java.nio.Buffer;
 import java.util.Scanner;
 
 /*
@@ -36,10 +35,10 @@ public class DictionaryApp {
 
         //Accepting user input
         while(true){
-            System.out.print("\nEnter a word to search (or type 'exit' to quit): ");
+            System.out.print("\nEnter a word to search (or type '0' to quit): ");
             String input = scanner.nextLine().trim().toLowerCase();
 
-            if(input.equals("exit")){
+            if(input.equals("0")){
                 System.out.println("Exiting dictionary search.");
                 break;
             }
