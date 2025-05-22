@@ -36,7 +36,7 @@ public class DictionaryApp {
 
         //Accepting user input
         while(true){
-            System.out.print("Enter a word to search: ");
+            System.out.print("\nEnter a word to search (or type 'exit' to quit): ");
             String input = scanner.nextLine().trim().toLowerCase();
 
             if(input.equals("exit")){
