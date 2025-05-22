@@ -19,11 +19,11 @@ This assignment involves two core tasks:
 - Saves space by reusing common prefixes (e.g., "cat", "car", "can").
 
 🧱 Folder Structure
-GTROPY-Dictionary/
-├── TrieNode.java // Defines each Trie node
-├── DictionaryTrie.java // Trie logic: insert, search
-├── DictionaryApp.java // Main runner with CLI
-└── list.txt // Word list used as dictionary
+Dictionary/
+  TrieNode.java // Defines each Trie node
+  DictionaryTrie.java // Trie logic: insert, search
+  DictionaryApp.java // Main runner with CLI
+  list.txt // Word list used as dictionary
 
 📥 Input Format
 - File: `list.txt`
